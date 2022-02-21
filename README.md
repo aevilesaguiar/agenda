@@ -1,4 +1,4 @@
-# #Projeto Agenda com Java
+# Projeto Agenda com Java
 
 ## Projeto
 - Tela Inicial;
